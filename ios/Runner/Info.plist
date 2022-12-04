@@ -48,6 +48,10 @@
 		<key>UIApplicationSupportsIndirectInputEvents</key>
 		<true/>
 		<!-- TODO: Agrega permiso: NSLocationWhenInUseUsageDescription -->
+		<key>NSLocationWhenInUseUsageDescription</key>
+    	    <string>Esta aplicación necesita acceso a la ubicación cuando está abierta.</string>
 		<!-- TODO: Agrega permiso: NSLocationAlwaysUsageDescription -->
+		<key>NSLocationAlwaysUsageDescription</key>
+    	    <string>Esta aplicación necesita acceso a la ubicación cuando está en segundo plano.</string>
 	</dict>
 </plist>
