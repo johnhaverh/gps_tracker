@@ -1,13 +1,25 @@
-# f_gps_tracker
+# GPS Tracker MisionTic NRC2288 - Grupo 12
 
-Un template para una aplicación de registro de ubicación usando la Hive y GeoLocator
+Reto # 4
 
-Video: https://uninorte-my.sharepoint.com/:v:/g/personal/sastoquek_uninorte_edu_co/EZXEAMfBezFBo72vHb8QekUBup2-X97GABWyk_9XPiH0nA?e=YgUBV0
+Proyecto del cuarto reto Mision TIC 2022 - NRC2288 - Grupo 12
+
+Aplicación simple para registros de la ubicación con coordenadas GPS usando la Hive y GeoLocator, se realiza con base en el ejemplo recibido, se hacen los cambios requeridos para su correcto funcionamiento
+
+Hace uso de los paquetes:
+
+get : para gestión de estados -> https://pub.dev/packages/get
+
+geolocator: ^8.2.1
+
+uuid: ^3.0.6
+
+hive: ^2.2.3
+
+hive_flutter: ^1.1.0
 
 Funcional con Android, iOS y Web
 
-![Tracker](https://user-images.githubusercontent.com/25647254/192416251-fdae4ea5-3149-4c08-bd3b-b37e23c48f34.gif)
+La siguiente imagen presenta un demo de la aplicación funcional:
 
-Solución:
-
-https://github.com/MisionTIC4b/f_gps_tracker
+![Tracker](https://github.com/johnhaverh/gps_tracker/blob/main/assets/gps_tracker.GIF?raw=true)
